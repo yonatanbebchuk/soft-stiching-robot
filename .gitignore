@@ -1,0 +1,22 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# MS Office / PowerPoint temporary lock files
+~$*
+
+# Python temporary files (from scripts run in scratch)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Obsolete executables
+obsolete_downloader.exe
+*.exe
+
+# Local user settings / CAD lock files
+*.tmp
+*.log
